@@ -1,0 +1,25 @@
+body {
+  font-size: 90%;
+}
+
+.btn {
+  font-size: 14px;
+}
+
+.btn-primary {
+  background-color: #d81b60;
+  border-color: #d81b60;
+}
+.btn-primary:hover {
+  background-color: #c2185b;
+  border-color: #c2185b;
+}
+
+.btn-success {
+  background-color: #8e24aa;
+  border-color: #8e24aa;
+}
+.btn-success:hover {
+  background-color: #7b1fa2;
+  border-color: #7b1fa2;
+}
